@@ -1,11 +1,9 @@
 ## Hi devs 👋
 <h3 >I'm Claudia-Roxana Dogaru</h3>
 
-<p>As a Junior Full Stack Developer with a strong frontend background, I excel in turning complex 
-requirements into user-friendly applications. Proficient in Angular, TypeScript, Bootstrap, and experienced 
-with VS Code, I am looking to further specialize in frontend development to create seamless, efficient, and 
-visually appealing interfaces. I am committed to continually enhancing my skills to provide exceptional 
-value to any team.</p>
+<p>I'm Claudia-Roxana Dogaru – a Front-End Developer with a strong foundation in Angular, TypeScript, and responsive UI design. I specialize in building secure, scalable, and user-friendly applications, with a proven track record in enterprise-level projects across healthcare and e-commerce sectors.
+
+🛠️ My tech stack includes Angular, Bootstrap, SCSS, Radzen Blazor, .NET Framework, and T-SQL. I have hands-on experience in front-end development, manual software testing (UAT, regression, black box), and UI component design based on user stories.
 
 - 📫 How to reach me **dogaruclaudia.roxana@gmail.com**
 
